@@ -4,7 +4,7 @@ A experienced web developer & software engineer student.
 I'm passionate about building & exploring new 
 
 
-📫 You can reach me in 
+📫 You can reach me in   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/sam-leonetti)
 
 🛠 Tech Stack  
