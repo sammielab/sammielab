@@ -5,7 +5,7 @@ I'm passionate about building & exploring new
 
 
 ##📫 You can reach me in 
-[![LinkedIn Badge](URL_LinkedIn_Badge)](https://linkedin.com/sam-leonetti)
+[LinkedIn](https://linkedin.com/sam-leonetti)
 
 ##🛠 Tech Stack 
 ---
