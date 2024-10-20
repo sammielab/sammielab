@@ -8,7 +8,16 @@ I'm passionate about building & exploring new
 [![LinkedIn Badge](URL_LinkedIn_Badge)](https://linkedin.com/sam-leonetti)
 
 ##🛠 Tech Stack 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Java](https://img.shields.io/badge/Java-11-red) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
+---
+![Java](https://img.shields.io/badge/Java-11-red) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+---
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
+---
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
+---
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-00A400?style=flat-square)
 
 
 <!--
