@@ -3,8 +3,6 @@ A experienced web developer & software engineer student.
 
 I'm passionate about building and exploring new technologies.I have a particular enthusiasm for software architecture, where I enjoy designing robust, scalable and maintainable systems.
 
-### 😄 Pronouns: 
-- he/him
 
 ## 📫 You can reach me in   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/sam-leonetti)
